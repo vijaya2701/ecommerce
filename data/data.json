@@ -1,0 +1,26 @@
+{
+	"mobiles":[
+		{
+			"name":"Nokia",
+			"image":"img/nokia.png",
+			"orginalPrice":16000,
+			"price":15999
+          },{"name":"reamle",
+			"image":"img/Realme-7i.jpg",
+			"orginalPrice":14000,
+			"price":15999
+		},{"name":"MI",
+			"image":"img/mi.jpeg",
+			"orginalPrice":10000,
+			"price":3999
+		},{"name":"samsung",
+			"image":"img/samsung.jpeg",
+			"orginalPrice":31000,
+			"price":30999
+		},{"name":"Apple",
+			"image":"img/apple.jpg ",
+			"orginalPrice":100000,
+		     "price":99999
+		}
+		]
+	}
